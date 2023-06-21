@@ -2,7 +2,7 @@ name = "doh-cache"
 
 main = "src/index.js"
 
-route = "https://dns.google/dns-query"
+route = "https://z.121112.xyz/dns-query"
 compatibility_date = "2022-05-12"
 
 [vars]
